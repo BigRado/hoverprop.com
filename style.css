@@ -1,0 +1,145 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+background-color: rgb(211, 202, 202); 
+}
+
+#firstline {
+    width: 65px;
+    border: 3px solid blue;
+    margin: 30px 0px 0px 2px;
+}
+
+h1, #exp {
+    color: rgb(83, 83, 95);
+
+}
+
+div {
+    margin-left: 30px
+}
+
+#exp {
+
+    margin: 40px 0px 20px 0px;
+
+}
+
+.h3b {
+    color: blue;
+    margin-bottom: 10px;
+}
+
+
+.line2 {
+    width: 95%;
+    border: 1px solid rgb(221, 220, 220);
+    ;
+}
+
+p {
+    margin: 20px 0px 30px 0px;
+    color: rgb(136, 126, 126);
+    width: 80%;
+}
+
+#csc {
+    color: blue;
+}
+
+.h2edu {
+    margin: 35px 0px 20px 0px;
+}
+
+.year {
+    border-left: 2px solid rgb(218, 200, 200);
+    padding-left: 10px;
+    color: rgb(128, 128, 128);
+
+}
+
+.img1 {
+    width: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #887e7e;
+
+}
+
+aside {
+
+    width: 99%;
+    padding: 20px 20px 20px 35px;
+    box-sizing: border-box;
+    border-radius: 50px;
+    background: linear-gradient(to right, rgb(216, 230, 243), rgb(102, 102, 167));
+    text-align: justify;
+    transition: all 1s;
+}
+
+aside:hover {
+
+    transform: scale(0.95)
+
+}
+
+
+.span {
+    color: rgb(136, 126, 126);
+
+}
+
+
+
+.list {
+    color: #887e7e;
+}
+
+.img2 {
+    width: 250px;
+    margin: 10px;
+    transition: all 1s;
+    ;
+
+}
+
+.img2:hover {
+    transform: scale(1.1);
+    border-radius: 30px;
+}
+
+#container {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: gainsboro;
+    margin: 20px 50px 0px;
+    padding: 30px 0px 30px;
+    border-radius: 50px;
+    background: linear-gradient(to right, grey, rgb(37, 173, 173, 1))
+
+}
+
+
+#mainpage {
+    background: linear-gradient(to right, rgb(127, 255, 212, 1), rgb(128, 129, 129, 1));
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50px;
+    transition: all 1s;
+    text-align: justify;
+
+
+}
+
+#mainpage:hover {
+    transform: scale(0.95);
+
+}
